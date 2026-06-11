@@ -1,2 +1,17 @@
-# Frontend-Project
-Modern and user-friendly frontend project with responsive design and interactive UI.
+# Frontend Project 🌐
+
+A simple and responsive frontend web application built using HTML, CSS, and JavaScript.
+
+## Features
+
+- Responsive Design
+- Modern User Interface
+- Mobile-Friendly Layout
+- Interactive Components
+- Clean and Organized Code
+
+## Technologies Used
+
+- HTML5
+- CSS3
+  
